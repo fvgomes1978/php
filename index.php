@@ -1,3 +1,4 @@
 <?php
-	echo "Ola Mundo! 2";
+	echo "Ola Mundo! 123";
+	echo "Hoje";
 ?>
